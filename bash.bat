@@ -1,0 +1,1 @@
+C:\PROGRA~1\Git\bin\bash.exe
